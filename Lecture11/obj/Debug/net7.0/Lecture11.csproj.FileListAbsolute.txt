@@ -1,0 +1,15 @@
+D:\ЗНАКОМТСВО С С#\Lecture11\bin\Debug\net7.0\Lecture11.exe
+D:\ЗНАКОМТСВО С С#\Lecture11\bin\Debug\net7.0\Lecture11.deps.json
+D:\ЗНАКОМТСВО С С#\Lecture11\bin\Debug\net7.0\Lecture11.runtimeconfig.json
+D:\ЗНАКОМТСВО С С#\Lecture11\bin\Debug\net7.0\Lecture11.dll
+D:\ЗНАКОМТСВО С С#\Lecture11\bin\Debug\net7.0\Lecture11.pdb
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.csproj.AssemblyReference.cache
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.AssemblyInfoInputs.cache
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.AssemblyInfo.cs
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.csproj.CoreCompileInputs.cache
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.dll
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\refint\Lecture11.dll
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.pdb
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\Lecture11.genruntimeconfig.cache
+D:\ЗНАКОМТСВО С С#\Lecture11\obj\Debug\net7.0\ref\Lecture11.dll
